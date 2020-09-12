@@ -6,6 +6,10 @@ var app = express();
 
 
 app.use("/api", APIPage);
+router.get('/', function (req, res) {
+    res.send('Node server live now...');
+});
+
 
 console.log('Welcom to node.js BackEnd')
 
