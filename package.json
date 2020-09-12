@@ -14,5 +14,16 @@
     "start": "node server.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "engines": {
+    "node": "12.18.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArqamRafay/NodeJsDemo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ArqamRafay/NodeJsDemo/issues"
+  },
+  "homepage": "https://github.com/ArqamRafay/NodeJsDemo#readme"
 }
